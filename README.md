@@ -1,3 +1,3 @@
 # Important Instructions
 
-This is a sample file for practicing Git/GitHub
+This is a demo repository for practicing Git & GitHub.
